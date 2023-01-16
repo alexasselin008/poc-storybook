@@ -1,0 +1,27 @@
+{
+  "autorun": true,
+  "autokill": true,
+  "terminals": [
+    {
+        "name": "demo-composition",
+        "focus": true,
+        "command": "cd ./demo-composition"
+    },
+    {
+        "name": "demo-cra",
+        "command": "cd ./demo-cra"
+    },
+    {
+        "name": "demo-nextjs",
+        "command": "cd ./demo-nextjs"
+    },
+    {
+        "name": "demo-reactlib",
+        "command": "cd ./demo-reactlib"
+    },
+    {
+        "name": "storybook-preset",
+        "command": "cd ./storybook-preset"
+    }
+  ]
+}

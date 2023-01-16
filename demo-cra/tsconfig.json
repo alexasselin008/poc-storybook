@@ -1,0 +1,12 @@
+{
+  "extends": "@sharegate/typescript-config/cra.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+    }
+  },
+  "include": [
+    "src"
+  ]
+}

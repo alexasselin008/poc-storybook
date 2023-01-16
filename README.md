@@ -3,7 +3,7 @@ Proof of concept of a multiple use case of storybook, storybook composition, and
 
 
 This repo will contain 4 demo projects
-- *demo-cra*: Folder containing one CRA (with craco?) project with a storybook integration
+- *demo-cra*: Folder containing one CRA (with craco) project with a storybook integration
 - *demo-nextjs*: Folder containing one NextJS project with a storybook integration
 - *demo-reactlib*: Folder containing one React Library project with a storybook integration
 - *demo-composition*: Folder containing one Storybook that serves as a root composition of all 3 other demo projects.
