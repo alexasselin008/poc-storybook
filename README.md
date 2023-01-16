@@ -13,6 +13,7 @@ All project must support
 - TypeScript
 - Mdx and CSF story files
 - SVGR icon imports
+- Aliases
 
 This repo will also contain
 - Storybook preset 
