@@ -30,6 +30,7 @@ Questions
 - Is there a good way to split chromatic stories vs documentation stories?
 - Example of interaction test/playtest?
 - What would the demo app look with an Atomic Design categorization?
+- What's the best way to write stories in mdx so that documentation stories and chroma stories are separated
 
 
 
