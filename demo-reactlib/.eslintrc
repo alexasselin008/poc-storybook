@@ -1,0 +1,13 @@
+{
+  "extends": [
+      "plugin:@sharegate/core", 
+      "plugin:@sharegate/typescript",
+      "plugin:@sharegate/react", 
+      "plugin:@sharegate/sort-imports",
+      "plugin:@sharegate/mdx", 
+      "plugin:@sharegate/jest", 
+      "plugin:@sharegate/testing-library",
+      "plugin:@sharegate/storybook",  
+      "plugin:@sharegate/storybook-csf"
+  ]
+}

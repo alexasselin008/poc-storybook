@@ -1,0 +1,11 @@
+*.css
+*.md
+*.html
+*.json
+*.png
+*.svg
+*.jpg
+*.jpeg
+*.woff
+license
+dist

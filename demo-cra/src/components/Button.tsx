@@ -1,6 +1,6 @@
 import { ComponentProps } from "react";
 
-interface ButtonProps extends ComponentProps<"button">{ 
+export interface ButtonProps extends ComponentProps<"button">{ 
     primary?: boolean;
 }
 

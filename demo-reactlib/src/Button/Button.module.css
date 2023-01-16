@@ -1,0 +1,9 @@
+.button {
+    background-color: cadetblue;
+    color: white;
+}
+
+.button-primary {
+    background-color: pink;
+    color: black;
+}
